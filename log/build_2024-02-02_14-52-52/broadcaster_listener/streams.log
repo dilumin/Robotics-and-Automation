@@ -1,0 +1,42 @@
+[0.364s] Invoking command in '/home/dilumin/robotics/src/broadcaster_listener': PYTHONPATH=/home/dilumin/robotics/build/broadcaster_listener/prefix_override:/home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/dilumin/robotics/build/broadcaster_listener/build install --record /home/dilumin/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
+[0.487s] running egg_info
+[0.487s] creating ../../build/broadcaster_listener/broadcaster_listener.egg-info
+[0.487s] writing ../../build/broadcaster_listener/broadcaster_listener.egg-info/PKG-INFO
+[0.487s] writing dependency_links to ../../build/broadcaster_listener/broadcaster_listener.egg-info/dependency_links.txt
+[0.487s] writing entry points to ../../build/broadcaster_listener/broadcaster_listener.egg-info/entry_points.txt
+[0.487s] writing requirements to ../../build/broadcaster_listener/broadcaster_listener.egg-info/requires.txt
+[0.487s] writing top-level names to ../../build/broadcaster_listener/broadcaster_listener.egg-info/top_level.txt
+[0.487s] writing manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.488s] reading manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.488s] adding license file 'LICENSE'
+[0.489s] writing manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.489s] running build
+[0.489s] running build_py
+[0.489s] creating /home/dilumin/robotics/build/broadcaster_listener/build
+[0.489s] creating /home/dilumin/robotics/build/broadcaster_listener/build/lib
+[0.489s] creating /home/dilumin/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.489s] copying broadcaster_listener/turtle_tf2_broadcaster.py -> /home/dilumin/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.489s] copying broadcaster_listener/__init__.py -> /home/dilumin/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.489s] running install
+[0.492s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.492s]   warnings.warn(
+[0.492s] running install_lib
+[0.493s] creating /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.493s] copying /home/dilumin/robotics/build/broadcaster_listener/build/lib/broadcaster_listener/turtle_tf2_broadcaster.py -> /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.493s] copying /home/dilumin/robotics/build/broadcaster_listener/build/lib/broadcaster_listener/__init__.py -> /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.493s] byte-compiling /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.494s] byte-compiling /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/__init__.py to __init__.cpython-310.pyc
+[0.494s] running install_data
+[0.494s] creating /home/dilumin/robotics/install/broadcaster_listener/share/broadcaster_listener/launch
+[0.494s] copying launch/turtle_tf2_demo.launch.py -> /home/dilumin/robotics/install/broadcaster_listener/share/broadcaster_listener/launch
+[0.494s] creating /home/dilumin/robotics/install/broadcaster_listener/share/ament_index
+[0.494s] creating /home/dilumin/robotics/install/broadcaster_listener/share/ament_index/resource_index
+[0.494s] creating /home/dilumin/robotics/install/broadcaster_listener/share/ament_index/resource_index/packages
+[0.494s] copying resource/broadcaster_listener -> /home/dilumin/robotics/install/broadcaster_listener/share/ament_index/resource_index/packages
+[0.494s] copying package.xml -> /home/dilumin/robotics/install/broadcaster_listener/share/broadcaster_listener
+[0.494s] running install_egg_info
+[0.495s] Copying ../../build/broadcaster_listener/broadcaster_listener.egg-info to /home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info
+[0.496s] running install_scripts
+[0.509s] Installing turtle_tf2_broadcaster script to /home/dilumin/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.509s] writing list of installed files to '/home/dilumin/robotics/build/broadcaster_listener/install.log'
+[0.523s] Invoked command in '/home/dilumin/robotics/src/broadcaster_listener' returned '0': PYTHONPATH=/home/dilumin/robotics/build/broadcaster_listener/prefix_override:/home/dilumin/robotics/install/broadcaster_listener/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/dilumin/robotics/build/broadcaster_listener/build install --record /home/dilumin/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
